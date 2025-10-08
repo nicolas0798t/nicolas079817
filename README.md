@@ -1,4 +1,4 @@
-[perfil.md](https://github.com/user-attachments/files/22772872/perfil.md)
+[Aditya664.md](https://github.com/user-attachments/files/22773849/Aditya664.md)[perfil.md](https://github.com/user-attachments/files/22772872/perfil.md)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
 
@@ -25,6 +25,34 @@
 - ⚡ Fun fact **MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
 
+[Uploading Aditya664.<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+
+<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -62,6 +90,14 @@
 
 
 <br>
+
+
+-----
+Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+
+Last Edited on: 04/09/2021
+md…]()
+
 -----
 
 [Avinash](https://github.com/rock12231)
