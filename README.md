@@ -17,12 +17,13 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+## 
+
+🔭 Actualmente trabajando en proyectos de desarrollo web y explorando nuevas tecnologías  
+🌱 Estudiante de Ingeniería en la UNAD, aprendiendo sobre Inteligencia Artificial y lógica computacional  
+👯 Me encantaría colaborar en proyectos relacionados con desarrollo de software e innovación tecnológica  
+🤝 Buscando oportunidades de prácticas o pasantías para aplicar lo aprendido y seguir creciendo  
+💬 ¿Tienes dudas o curiosidad por algo? ¡Estoy feliz de ayudarte y compartir lo que sé!  
 
 
 <br/>
