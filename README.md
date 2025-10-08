@@ -51,10 +51,6 @@
 <br/>
 
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-
-
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
