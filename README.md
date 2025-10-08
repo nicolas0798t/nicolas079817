@@ -1,10 +1,5 @@
-[Aditya664.md](https://github.com/user-attachments/files/22774550/Aditya664.md)
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1> Hello Fellow < Developers/ >! 
 </p>
 
 
